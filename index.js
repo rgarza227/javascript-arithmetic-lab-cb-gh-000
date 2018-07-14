@@ -10,3 +10,9 @@ function multiply(one, two){
 function divide(one, two){
   return one / two
 }
+function inc(n){
+  return inc++
+}
+function dec(n){
+  return inc--
+}
