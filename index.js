@@ -14,5 +14,5 @@ function inc(n){
   return inc++
 }
 function dec(n){
-  return inc--
+  return dec--
 }
